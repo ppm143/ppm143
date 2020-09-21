@@ -43,7 +43,9 @@
 ### - Languages and Tools...
 
 <p align="center">
- <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="vertical-align:top; margin:4px; width:150px; 
+                                                                    height:20px;">
+  
  
 </p>
 
