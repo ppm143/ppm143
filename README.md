@@ -51,12 +51,11 @@
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align:top; margin:4px;">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" style="vertical-align:top; margin:4px;">
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="vertical-align:top; margin:4px;">
-</p>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align:top; margin:4px;">
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" style="vertical-align:top; margin:4px;">
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="vertical-align:top; margin:4px;">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top; margin:4px;">
-
+</p>
 ### - Blogs 🌱
 
 <p align="center">
