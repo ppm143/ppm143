@@ -1,77 +1,33 @@
-### Hi there, I'm [Parth!](https://ppm143.netlify.app/) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+<h1 align="center">Hi 👋, I'm Parth Patel</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<br/>
-<a href="https://www.linkedin.com/in/parth-patel-80a291152/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/ppm_143">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/p_square_m/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.codechef.com/users/p_square_m">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.hackerrank.com/WakeUp_Montu">
-  <img align="left" alt=" Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://codeforces.com/profile/prthptl14">
-  <img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppm143" alt="ppm143" /> </p>
 
+- 🌱 I’m currently learning **React + Redux**
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br />
+- 👨‍💻 All of my projects are available at [https://ppm143.netlify.app/](https://ppm143.netlify.app/)
 
-### Hi 🙋‍♂️,
-### I'm Competitive Coder & Self-taught Full-Stack developer(Learning) from India.
+- 📝 I regulary write articles on [https://techworld4unow.com/](https://techworld4unow.com/)
 
-<br />
+- 💬 Ask me about **Javascript, HTML5, CSS3, C++**
 
-**I am Into , 🙏**
+- 📫 How to reach me **parthpatel.daiict@gmail.com**
 
-**Web Development, SEO, Micro Services, Wordpress, System Design, Competetive Programming & Mathematics 😼**
-<br />
+- ⚡ Fun fact **Tech Enthusiast, Blogger**
 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></p>
 
-*************
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppm143&layout=compact" alt="ppm143" /></p>
 
-<br />
-
-### - Languages and Tools...
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ppm143&show_icons=true" alt="ppm143" /></p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top; margin:4px;">
- <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:top; margin:4px;">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align:top; margin:4px;">
- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" style="vertical-align:top; margin:4px;">
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align:top; margin:4px;">
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align:top; margin:4px;">
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" style="vertical-align:top; margin:4px;">
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="vertical-align:top; margin:4px;">
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="vertical-align:top; margin:4px;">
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" style="vertical-align:top; margin:4px;">
-<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="vertical-align:top; margin:4px;">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top; margin:4px;">
+<a href="https://twitter.com/ppm__143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ppm__143" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/parth-patel-80a291152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parth-patel-80a291152" height="30" width="30" /></a>
+<a href="https://instagram.com/p_square_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="p_square_m" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/p_square_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="p_square_m" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/wakeup_montu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="wakeup_montu" height="30" width="30" /></a>
+<a href="https://codeforces.com/profile/prthptl14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="prthptl14" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/parthpatel5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="parthpatel5" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/parthpatel3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="parthpatel3" height="30" width="30" /></a>
 </p>
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
-
-
-### - Github Stats 📊
-![Parth Patel Github Stats](https://github-readme-stats.vercel.app/api?username=ppm143&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
-
-***********************************
-
-#### Thank You-🙏🏼
-
-
-
-⭐️ From [ppm143](https://github.com/ppm143)
