@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500"/>
 - 🌱 I’m currently learning **MERN/MEAN Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://ppm143.netlify.app/](https://ppm143.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://parthmpatel.netlify.com/](https://parthmpatel.netlify.app/)
 
 - 📝 I regulary write articles on [https://techworld4unow.com/](https://techworld4unow.com/)
 
