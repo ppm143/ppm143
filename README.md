@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://parthmpatel.netlify.com/](https://parthmpatel.netlify.app/)
 
-- 📝 I regulary write articles on [https://techworld4unow.com/](https://techworld4unow.com/)
+- 📝 I regulary write articles on [https://freeprogrammings.com/](https://freeprogrammings.com/)
 
 - 💬 Ask me about **Javascript,MongoDB, Node.js, Express.js, HTML5, CSS3, C++**
 
